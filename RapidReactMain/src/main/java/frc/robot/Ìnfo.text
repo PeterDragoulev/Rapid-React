@@ -1,0 +1,4 @@
+Chassis Motors: 6 WPI_TalonSRX
+Intake Motors: PWMSparkMax
+Shooter Motors: 2 PWMSparkMax
+Turret Motors: Victor but works with Spark class 
